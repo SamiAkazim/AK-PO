@@ -1,0 +1,132 @@
+* {
+  margin: 2px;
+  padding: 2px;
+}
+
+img {
+  float: left;
+}
+
+.Bekenddoor  {
+    border: 4px maroon double;
+    border-radius: 20px 0px 20px 0px;
+    text-align: justify;
+    padding: 5px;
+    border: 5px solid orange;
+    margin-right: 10px;
+}
+
+.Index {
+  background-image: url("https://www.50pluswereld.nl/wp-content/uploads/2019/11/bigstock-The-Earth-Globe-From-Space-In-299391739.jpg");
+  background-repeat: repeat;
+
+}
+
+.Filmpje	{
+  float: left;
+}
+ul.NavigatieMenu {
+  color:black ;
+  display: inline;
+  background-color: #333;
+}
+
+ul.NavigatieMenu li{
+  color: black;
+  padding: 2px;
+  display: inline;
+}
+
+ul.NavigatieMenu li a {
+  color: white;
+  text-decoration: none;
+
+}
+
+ul.NavigatieMenu li a:hover {
+  background-color: #111;
+}
+
+.Tabel td, tr, th {
+  border: 1px solid black;
+
+}
+
+body.Contact {
+
+
+}
+
+img.Microsoft {
+  float: center;
+}
+
+p.Home {
+  border: 2px maroon double;
+  border-radius: 20px 0px 20px 0px;
+  text-align: justify;
+  padding: 5px;
+  border: 5px solid purple;
+  margin-right: 10px;
+  font-weight: bold;
+  background-color: red;
+}
+p.Biografie {
+  border: 4px maroon double;
+  border-radius: 20px 0px 20px 0px;
+  text-align: justify;
+  padding: 5px;
+  border: 5px solid red;
+  margin-right: 10px;
+  background-color: green;
+
+
+}
+
+img{
+float: left;
+}
+iframe{
+float: right;
+}
+
+img{
+  float: left;
+}
+
+
+a:hover{
+  background-color: yellow;
+  font-size: large;
+}
+
+.Contact_tekst {
+      border: 4px solid blue;
+      background-color: red;
+}
+
+ h2 {
+  border: 4px solid blue;
+  color: #e02245;
+  background-color: purple;
+  text-align : center;
+  font-family: Georgia, "Times New Roman" , Times, serif;
+  font-style: italic;
+}
+
+
+img.Biografie_BillGates{
+  float:left:
+}
+
+body.Biografie_body {
+
+}
+
+
+
+
+body {
+  margin: 0 0% 0 0%; /* links en rechts 10% marge, boven en onder geen marge  */
+  background-image: url("GettyImages-1185999181.jpg");
+}
